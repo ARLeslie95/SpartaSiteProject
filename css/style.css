@@ -105,3 +105,63 @@ background-color: lightgreen;
 .footer1 [class*="col-md-offset"]{
   text-align: center;
 }
+
+.container a{
+  font-size: 25px
+}
+
+.container h1{
+  font-size: 55px;
+}
+
+.selection [class*="col-sm"]{
+  font-size: 30px;
+}
+
+.selection a{
+  font-size: 35px;
+}
+
+.selection h3, h4{
+  font-size: 30px;
+}
+
+.footer1-sm, .footer2-sm{
+  background-color: lightgreen;
+  color: white;
+  padding-left: 35px;
+  padding-top: 10px;
+}
+
+.footer2-sm a{
+  color: white;
+  position:fixed;
+  bottom:0;
+}
+.footer2-sm [class*="col-sm"]{
+  padding-top: 0px;
+  padding-bottom: 10px;
+  font-size: 40px;
+}
+
+.footer1-sm [class*="col-md-offset"]{
+  text-align: center;
+  font-size: 35px;
+}
+
+.footer1-sm [class*="col-sm"]{
+  font-size: 35px;
+}
+
+
+.nav-sm .dropdown, .nav-sm .dropdown-menu{
+  font-size: 50px;
+}
+
+.nav-sm{
+  padding-bottom: 10px;
+}
+
+.offers{
+  padding-top: 150px;
+}
