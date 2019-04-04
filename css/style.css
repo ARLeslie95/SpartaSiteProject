@@ -1,0 +1,54 @@
+.navbar-default{
+background-color: lightgreen;
+}
+
+.navbar-brand{
+  font-size: 60px;
+}
+
+.navbar-brand img {
+  width: 56px;
+  position: relative;
+  bottom: 41px;
+  left: 118px;
+}
+
+.container-fluid .navbar-header{
+  margin-right: 43px;
+}
+
+.navbar-nav{
+  background-color: lightgreen;
+}
+
+.container, .row, [class*=col-lg], [class*=col-md]{
+  /* border: solid black 1px; */
+}
+
+.container{
+  margin-left: 42px;
+  margin-bottom: 50px;
+}
+
+}
+.selection [class*="col-md"]{
+  width: auto;
+}
+
+.selection img{
+  width: 250px;
+}
+
+.offers [class*="col-md"]{
+  color: black;
+}
+
+.container .see-more{
+  margin-top: 49px;
+  color: blue;
+  text-align: end;
+}
+
+.game [class*="col-md"]{
+  margin-left: 8%
+}
