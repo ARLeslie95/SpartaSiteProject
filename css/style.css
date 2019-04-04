@@ -165,3 +165,53 @@ background-color: lightgreen;
 .offers{
   padding-top: 150px;
 }
+
+.welcome h1{
+  color: lightgreen;
+  font-size: 100px;
+}
+
+.welcome{
+  border-bottom: solid lightgreen 8px;
+}
+
+.welcome-des{
+  margin-left:105px;
+  text-align: center;
+}
+
+.welcome-des img{
+  width: 90%;
+}
+
+.des-header h1{
+  color: lightgreen;
+}
+
+.descrip {
+  font-size: 20px;
+}
+
+.exc-img img{
+  width: 113%;
+}
+.exc-header {
+  padding-left: 10%;
+}
+
+.chat-header{
+  padding-left: 5%;
+}
+
+.chat-descrip{
+  padding-left: 10%;
+}
+
+.enter [class*="col-md"]{
+  background-color: lightgreen;
+}
+
+.welcome-des a{
+  color: white;
+  font-size: 40px;
+}
