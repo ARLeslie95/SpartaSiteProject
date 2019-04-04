@@ -1,4 +1,4 @@
-.navbar-default{
+.navbar-fixed-top{
 background-color: lightgreen;
 }
 
@@ -28,6 +28,7 @@ background-color: lightgreen;
 .container{
   margin-left: 42px;
   margin-bottom: 50px;
+  padding-top: 67px;
 }
 
 }
@@ -38,6 +39,8 @@ background-color: lightgreen;
 .selection img{
   width: 250px;
 }
+
+
 
 .offers [class*="col-md"]{
   color: black;
@@ -51,4 +54,54 @@ background-color: lightgreen;
 
 .game [class*="col-md"]{
   margin-left: 8%
+}
+
+.product-img img{
+  height: 520px;
+}
+
+.container .product{
+  margin-right: -58px;
+}
+
+.product-des{
+  padding-top: 15px;
+}
+
+.product-des h4{
+  margin-bottom: 62px;
+}
+
+
+
+.message [class*="col-md"]{
+  background-color: lightgreen;
+  color: white;
+}
+
+.message a{
+  color: white;
+}
+
+.footer1, .footer2{
+  background-color: lightgreen;
+  color: white;
+  font-size: 17px;
+  padding-left: 35px;
+  padding-top: 10px;
+}
+
+.footer2 a{
+  color: white;
+  position:fixed;
+  bottom:0;
+}
+.footer2 [class*="col-md-5"]{
+  font-size: 25px;
+  padding-top: 0px;
+  padding-bottom: 10px;
+}
+
+.footer1 [class*="col-md-offset"]{
+  text-align: center;
 }
