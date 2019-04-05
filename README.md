@@ -23,4 +23,4 @@ The concept used was of a website that allowed users to sell or exhcange pre-own
 The Navbar and footer are fully functional, and the can take users to the links that exist. I was also successful in optimizing the pages for different screen resolutions.
 
 ## **Instructions**
-Clone this git repo and open the .html files locally in your browser.
+Clone this git repository and open the .html files locally in your browser.
