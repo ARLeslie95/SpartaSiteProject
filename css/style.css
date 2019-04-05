@@ -1,0 +1,217 @@
+.navbar-fixed-top{
+background-color: lightgreen;
+}
+
+.navbar-brand{
+  font-size: 60px;
+}
+
+.navbar-brand img {
+  width: 56px;
+  position: relative;
+  bottom: 41px;
+  left: 118px;
+}
+
+.container-fluid .navbar-header{
+  margin-right: 43px;
+}
+
+.navbar-nav{
+  background-color: lightgreen;
+}
+
+.container, .row, [class*=col-lg], [class*=col-md]{
+  /* border: solid black 1px; */
+}
+
+.container{
+  margin-left: 42px;
+  margin-bottom: 50px;
+  padding-top: 67px;
+}
+
+}
+.selection [class*="col-md"]{
+  width: auto;
+}
+
+.selection img{
+  width: 250px;
+}
+
+
+
+.offers [class*="col-md"]{
+  color: black;
+}
+
+.container .see-more{
+  margin-top: 49px;
+  color: blue;
+  text-align: end;
+}
+
+.game [class*="col-md"]{
+  margin-left: 8%
+}
+
+.product-img img{
+  height: 520px;
+}
+
+.container .product{
+  margin-right: -58px;
+}
+
+.product-des{
+  padding-top: 15px;
+}
+
+.product-des h4{
+  margin-bottom: 62px;
+}
+
+
+
+.message [class*="col-md"]{
+  background-color: lightgreen;
+  color: white;
+}
+
+.message a{
+  color: white;
+}
+
+.footer1, .footer2{
+  background-color: lightgreen;
+  color: white;
+  font-size: 17px;
+  padding-left: 35px;
+  padding-top: 10px;
+}
+
+.footer2 a{
+  color: white;
+  position:fixed;
+  bottom:0;
+}
+.footer2 [class*="col-md-5"]{
+  font-size: 25px;
+  padding-top: 0px;
+  padding-bottom: 10px;
+}
+
+.footer1 [class*="col-md-offset"]{
+  text-align: center;
+}
+
+.container a{
+  font-size: 25px
+}
+
+.container h1{
+  font-size: 55px;
+}
+
+.selection [class*="col-sm"]{
+  font-size: 30px;
+}
+
+.selection a{
+  font-size: 35px;
+}
+
+.selection h3, h4{
+  font-size: 30px;
+}
+
+.footer1-sm, .footer2-sm{
+  background-color: lightgreen;
+  color: white;
+  padding-left: 35px;
+  padding-top: 10px;
+}
+
+.footer2-sm a{
+  color: white;
+  position:fixed;
+  bottom:0;
+}
+.footer2-sm [class*="col-sm"]{
+  padding-top: 0px;
+  padding-bottom: 10px;
+  font-size: 40px;
+}
+
+.footer1-sm [class*="col-md-offset"]{
+  text-align: center;
+  font-size: 35px;
+}
+
+.footer1-sm [class*="col-sm"]{
+  font-size: 35px;
+}
+
+
+.nav-sm .dropdown, .nav-sm .dropdown-menu{
+  font-size: 50px;
+}
+
+.nav-sm{
+  padding-bottom: 10px;
+}
+
+.offers{
+  padding-top: 150px;
+}
+
+.welcome h1{
+  color: lightgreen;
+  font-size: 100px;
+}
+
+.welcome{
+  border-bottom: solid lightgreen 8px;
+}
+
+.welcome-des{
+  margin-left:105px;
+  text-align: center;
+}
+
+.welcome-des img{
+  width: 90%;
+}
+
+.des-header h1{
+  color: lightgreen;
+}
+
+.descrip {
+  font-size: 20px;
+}
+
+.exc-img img{
+  width: 113%;
+}
+.exc-header {
+  padding-left: 10%;
+}
+
+.chat-header{
+  padding-left: 5%;
+}
+
+.chat-descrip{
+  padding-left: 10%;
+}
+
+.enter [class*="col-md"]{
+  background-color: lightgreen;
+}
+
+.welcome-des a{
+  color: white;
+  font-size: 40px;
+}
